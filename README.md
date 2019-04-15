@@ -1,2 +1,3 @@
 # Calculator
-Switch caluclator - ![Output](https://puu.sh/Df3d6.png)
+Switch caluclator output -
+!(https://puu.sh/Df3d6.png)
