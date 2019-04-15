@@ -33,21 +33,3 @@ public class Calculator {
 		}
 
 }
-		
-		
-		
-		//System.out.println("First number please: ");
-		//int Num1 = input.nextInt(); // grabbing num1 from keyboard
-		
-		//System.out.println("Second number please: ");
-		//int Num2 = input.nextInt(); // grabbing num2 from keyboard
-		
-		//int answer = Num1 + Num2; // setting the addition sum
-		
-		//System.out.println("Your answer is : " + answer); // printing answer
-		
-		
-		
-		
-		
-	
