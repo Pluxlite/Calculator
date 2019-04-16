@@ -30,6 +30,8 @@ public class Calculator {
 		case 4: System.out.println(num1 / num2);
 		}
 		
+		 input.close();
+		
 		}
 
 }
