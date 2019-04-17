@@ -1,2 +1,3 @@
 # Calculator
-simple calculator made usign a switch statement, no interface.
+first calculator - simple calculator made using a switch statement, no interface.
+second calculator - interface
